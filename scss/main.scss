@@ -1,0 +1,41 @@
+/*VARIABLES*/
+
+$primary-color: #bada55;
+$font-size1: 3.125em;
+$font-size2: 2.125em;
+$text-color: #f0f;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*BASE STYLE*/
+body {
+    background-color: $primary-color;
+    
+ h1 {
+     font-size: $font-size1;
+ }
+
+ p {
+    font-size:  $font-size2;
+
+
+ }
+
+
+
+}
